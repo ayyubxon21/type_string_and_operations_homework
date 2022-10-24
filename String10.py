@@ -7,6 +7,6 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    answer = "(x+y)*2=20"
+    answer = '"(x+y)*2=20"'
     return answer
 print(main(4,5))
